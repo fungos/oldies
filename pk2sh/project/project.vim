@@ -1,0 +1,7 @@
+let g:run_command='LD_LIBRARY_PATH="." ./pk2sh'
+let g:rebuildall_command='clear; cd project; make clean; make; cd ..'
+let g:compile_command='clear; cd project; make; cd ..'
+let g:clean_command='cd project; make clean; cd ..'
+let g:debug_command='LD_LIBRARY_PATH="." kdbg ./pk2sh'
+let g:svn_commit_command='svn commit'
+let g:svn_update_command='svn update'

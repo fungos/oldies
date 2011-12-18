@@ -1,0 +1,14 @@
+Old codes for fun and profit!
+I will put here all my old junk, be it C, C++, Web, Python, whatever. Historical things.
+
+animalc:
+
+Game of animals written in C with "OO". The game logic with only one "while" and no explicit conditionals.
+
+pk2sh:
+
+A console for navigating and manipulating .pk2 package files from the game Silkroad Online.
+
+pk2tool:
+
+A tool for replacing data files from .pk2 package files from the game Silkroad Online.

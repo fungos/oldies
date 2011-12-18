@@ -1,0 +1,11 @@
+OBJECTS = \
+	../console.o \
+	../util.o \
+	../pk2.o \
+	../entry.o \
+	../empty.o \
+	../dir.o \
+	../file.o \
+	../blowfish.o \
+	../main.o
+

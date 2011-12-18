@@ -1,0 +1,5 @@
+OBJECTS = \
+	src/pk2.o \
+	src/log.o \
+	src/main.o
+
